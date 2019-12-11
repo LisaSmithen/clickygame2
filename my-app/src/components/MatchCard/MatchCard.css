@@ -1,6 +1,6 @@
 .card {
     background:#e8d8c3;
-    border-radius: 2px;
+    border-radius: 4px;
     box-shadow: 0 3px 6px rgb(185, 142, 180), 0 3px 6px #999;
     text-align: left;
     justify-content: center;
@@ -9,11 +9,11 @@
 .card>.img-container {
     overflow: hidden;
     text-align: center;
-    background: black;
+    background: rgb(214, 188, 188);
     justify-content: center;  
     margin: 20px;   
 }
 
 .card>.img-container>img {
-    width: 150px;   
+    width: 250px;   
 }

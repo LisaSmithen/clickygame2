@@ -117,17 +117,17 @@ import React, { Component } from "react";
 	    render() {
 	        return (
 	            <Wrapper>
-	                <Title>Click Your Way Through</Title>
+	                <Title>CLICK YOUR WAY THROUGH!!!</Title>
 	        
 	                <h3 className="scoreSummary">
 	                    {this.state.clickMessage}
 	                </h3>
 	                
-	                <h3 className="scoreSummary card-header">
+	                <h2 className="scoreSummary card-header">
 	                    Correct Guesses: {this.state.correctGuesses} 
 	                    <br />
 	                    Best Score: {this.state.bestScore} 
-	                </h3>
+	                </h2>
 	                <div className="container">
 	                <div className="row">
 	                {this.state.matches.map(match => (
