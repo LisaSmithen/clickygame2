@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "image": "./assets/images/wine.jpg",
+    "clicked": false
+},
+{
+    "id": 2,
+    "image": "./assets/images/manger.jpg",
+    "clicked": false
+},
+{
+    "id": 3,
+    "image": "./assets/images/snowman.jpg",
+    "clicked": false
+},
+{
+    "id": 4,
+    "image": "./assets/images/reindeer.jpg",
+    "clicked": false
+},
+{
+    "id": 5,
+    "image": "./assets/images/babyJesus.jpg",
+    "clicked": false
+},
+{
+    "id": 6,
+    "image": "./assets/images/maryjoseph.jpg",
+    "clicked": false
+},
+{
+    "id": 7,
+    "image": "./assets/images/tinsel.jpg",
+    "clicked": false
+},
+{
+    "id": 8,
+    "image": "./assets/images/cincookie.jpg",
+    "clicked": false
+},
+{
+    "id": 9,
+    "image": "./assets/images/blackgift.jpg",
+    "clicked": false
+},
+{
+    "id": 10,
+    "image": "./assets/images/stuffanimal.jpg",
+    "clicked": false
+},
+{
+    "id": 11,
+    "image": "./assets/images/tree.jpg",
+    "clicked": false
+},
+{
+    "id": 12,
+    "image": "./assets/images/cookie.jpg",
+    "clicked": false
+}
+]
